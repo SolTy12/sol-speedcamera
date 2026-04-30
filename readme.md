@@ -104,13 +104,8 @@ Perfect for:
 ### In-Game Preview
 
 *(Add your image links here)*
-![preview](https://cdn.discordapp.com/attachments/1479280684085411963/1480014955334996150/image.png)
-![preview](https://cdn.discordapp.com/attachments/1479280684085411963/1480014955926388856/image.png)
-
-### Video Preview
-
-*(Add your video link here if you have one)*
-https://streamable.com/
+![preview](https://imgur.com/a/UB5ZHby)
+![preview](https://imgur.com/a/FiCuQiE)
 
 ---
 # 🛠 Support
