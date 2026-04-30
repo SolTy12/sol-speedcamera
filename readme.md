@@ -1,4 +1,3 @@
-```markdown
 ![FiveM](https://img.shields.io/badge/FiveM-Script-orange?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/Framework-QBCore%20|%20ESX-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
