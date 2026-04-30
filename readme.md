@@ -103,9 +103,8 @@ Perfect for:
 
 ### In-Game Preview
 
-*(Add your image links here)*
-![preview](https://imgur.com/a/UB5ZHby)
-![preview](https://imgur.com/a/FiCuQiE)
+![preview](https://i.imgur.com/qwtdLiC.jpeg)
+![preview](https://i.imgur.com/TH9C0UH.jpeg)
 
 ---
 # 🛠 Support
